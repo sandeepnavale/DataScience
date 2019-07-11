@@ -1,2 +1,3 @@
-# DataScience
-Experiments with Data Science &amp; Machine learning.
+# Data Science & Machine learning expirements.
+
+DGA_XGBoost.ipynb -- XGBoost model to detect DGA Domains.
